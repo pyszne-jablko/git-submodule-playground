@@ -1,0 +1,3 @@
+[submodule "dep/configs-helps"]
+	path = dep/configs-helps
+	url = git@github.com:pyszne-jablko/configs-helps.git
