@@ -6,3 +6,5 @@ This repository is for play with git-submodule.
 
 'git submodule add git@github.com:pyszne-jablko/configs-helps.git dep/configs-helps'
 
+'git submodule set-branch -b main dep/configs-helps'
+
